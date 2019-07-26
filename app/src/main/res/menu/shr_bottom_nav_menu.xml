@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/shr_navigation_home" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/baseline_video_library_24"
+        android:title="@string/shr_navigation_video" />
+
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/baseline_dashboard_24"
+        android:title="@string/shr_navigation_discover" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_person_pin_24"
+        android:title="@string/shr_navigation_profile"/>
+
+</menu>
